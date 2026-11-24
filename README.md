@@ -32,3 +32,7 @@ Publish the exact contents of `dist/` to the root of `gh-pages`, preserving a ro
 ## Page structure
 
 Each page has a focused narrative. About uses a single photograph followed by an editorial practice introduction, a motto/mission panel and the doctor directory. The service directory groups all 35 services without repeated photo bands. Treatment pages use distinct discussion prompts from `content/treatment-questions.json`, contextual enquiry links and related care; they do not repeat the generic FAQ, journey or promotional banner. Contact and Privacy use functional text introductions. No photograph or heading is repeated within a page.
+
+## Responsive components and motion
+
+The footer uses a compact horizontal logo, direct contact links and mobile disclosure menus. The doctor panel is a name-led roster with credentials and specialties. Treatments use a searchable 35-service directory with eight category filters; without JavaScript, all services remain available. Category changes, mobile disclosures and section reveals animate once or on interaction, respecting `prefers-reduced-motion`.
