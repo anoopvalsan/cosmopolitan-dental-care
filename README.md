@@ -28,3 +28,7 @@ The contact form prepares an enquiry locally. Visitors can open their email app 
 ## Publishing
 
 Publish the exact contents of `dist/` to the root of `gh-pages`, preserving a root `CNAME` containing `dental.zedqhub.com` and an empty `.nojekyll`. Source changes in `main` alone do not change the live site.
+
+## Page structure
+
+Each page has a focused narrative. About uses a single photograph followed by an editorial practice introduction, a motto/mission panel and the doctor directory. The service directory groups all 35 services without repeated photo bands. Treatment pages use distinct discussion prompts from `content/treatment-questions.json`, contextual enquiry links and related care; they do not repeat the generic FAQ, journey or promotional banner. Contact and Privacy use functional text introductions. No photograph or heading is repeated within a page.
