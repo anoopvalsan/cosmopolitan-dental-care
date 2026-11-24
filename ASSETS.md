@@ -12,3 +12,5 @@ All active photographs and the logo were supplied by the client on 24 November 2
 - restorative-care.jpg: dentist-examining-female-patient-teeth.jpg
 
 Photos are resized and JPEG optimised, with composition selected through CSS object-position. No generative edits were made. The brochure supplies clinic information, service names and doctor details. Original client files remain unchanged.
+
+The WhatsApp brand icon uses Font Awesome Free (https://fontawesome.com/), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/).
